@@ -1,6 +1,6 @@
 ﻿using UptailTestJsonTask;
 
-string filePath = "file.json";
+string filePath = "..\\..\\..\\json1.json";
 string jsonValuePath = "Indo-European.Slavic.East-Slavic.[0]";
 try
 {
